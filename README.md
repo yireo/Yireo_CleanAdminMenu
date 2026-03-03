@@ -5,7 +5,7 @@
 ### Installation
 Install this package via composer:
 ```bash
-composer require yireo/module-clean-admin-menu
+composer require yireo/magento2-clean-admin-menu
 ```
 
 Next, enable this module:
