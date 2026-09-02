@@ -1,1 +1,7 @@
-{}
+{
+    "module_name": "Yireo_CleanAdminMenu",
+    "composer_name": "yireo/magento2-clean-admin-menu",
+    "sequence": [
+        "Magento_Backend"
+    ]
+}
