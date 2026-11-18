@@ -3,5 +3,7 @@
     "composer_name": "yireo/magento2-clean-admin-menu",
     "sequence": [
         "Magento_Backend"
-    ]
+    ],
+    "phpcs_severity": "6",
+    "phpstan_level": "5"
 }
