@@ -3,7 +3,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="Yireo_CleanAdminMenu::thirdParty" title="Third Party Extensions" translate="title" sortOrder="300" />
+                <resource id="Yireo_CleanAdminMenu::thirdParty" title="Third Party (menu container only)" translate="title" sortOrder="300" />
             </resource>
         </resources>
     </acl>
